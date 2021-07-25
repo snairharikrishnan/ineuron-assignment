@@ -1,0 +1,28 @@
+python basic assignment 6
+
+1.  Escape characters are those which are \ followed by other characters which convey a special meaning
+    eg \n is newline character , \t is tab
+
+2.  \n is newline character , \t is tab
+
+3.  print('\\')
+
+4.  Because the string is enclosed in double quotes
+
+5.  print('hello world',end= '' )
+
+6.  e
+    Hello
+    Hello
+    lo, world!
+
+7.  HELLO
+    True
+    hello
+
+8.  ['Remember,','remember,','the','fifth','of','July.']  
+    There-can-only-one.
+
+9.  rjust() , ljust() , center()
+
+10.  ltrim() , rtrim()

@@ -1,0 +1,54 @@
+Python Basic Assignment 1
+
+1.
+*         -->  operator
+'hello'   -->  value
+-87.8     -->  value
+-         -->  operator
+/         -->  operator  
++         -->  operator
+6   	  -->  value
+
+
+2. A variable is a data object that holds a data value of any data type.
+   String is a datatype which is defined as the one which holds multiple characters.
+   Any variable that has a value/word/sentence enclosed in '' or "" is called a string variable
+    
+
+3. a. integer -->  holds whole numbers  eg 10
+   b. list    -->  holds a sequence of values which can be repetative  eg [1,50,"abc",1]
+   c. boolean -->  holds true or false
+
+
+4 An expression is made up of variables/numbers and operators eg  5+6*7-4
+  Expression always evaluates the combination and return the result
+
+5 Expression evalueates the values and statement assigns the value to the respective variable
+
+6 barcon contains 22 as we are not updating the variable
+
+7  spamspamspam
+   spamspamspam
+
+8  10 is a value , it cannot be anything different, eggs can hold any value of any datatype
+
+
+9  x=10.39
+   int(x)  -->  10
+   float(x)  -->  10.39
+   str(x)   -->  "10.39"
+
+10. cannot add string to a number.
+    'I have eaten '+str(99)+'burritos.' 
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,52 @@
+Python Basic Assignment 3
+
+1 Functions reduce the need for wring the code again and again.  
+  It increases the reusability of our code just by calling those functions.
+  It also helps us to split the whole work into small modules
+  By using functions, we can easily read through the whole program unlike sequential commands
+
+2 The code inside a function runs only when the function is called
+
+3 A def statement creates a function eg.
+
+  def test():
+      pass
+
+
+4 Function is the function defenition just as the example shown in question3
+  Function call is when the program calls the function and it starts executing. eg test()
+
+5  Global variables are those variables that are defines outside the functions and can be accessed by all functions
+   Local variables are those which are defined inside a function and can be accessed only in that function
+
+6  They get updated, but only that function can see that variable. Others dont know that this variable exists
+
+7 return keyword sends back a value to where the function is called
+
+Yes it is possible to have returned value in expression. eg
+ 
+def abc(x):
+    return x* 2
+
+
+abc(5) + 10  --> 20
+
+8  NO value is returned
+
+9  Using the global keyword
+
+10  None
+
+11 It imports that package ie all functions that package will be available.
+   If the package name does not exists, it throws error
+
+12 spam.bacon()
+
+13  Add a try except block 
+
+14  All codes which has a possibility to crash can be written in try.
+   If an error is encountered, control flows to except block.
+   In except block we give the different errors and what to execute if such errors are encountered 
+
+
+

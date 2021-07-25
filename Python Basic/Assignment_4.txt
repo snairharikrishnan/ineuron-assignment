@@ -1,0 +1,45 @@
+Python basic assignment 4
+
+1.  It is a list which stores data of different datatypes and repetitioin is allowed
+
+2.  spam[2] = "hello"
+
+3.  'd'
+
+4.  d
+
+5.  ['a','b']
+
+6.  1
+
+7.  [3.14,'cat',11,'cat',True,99]
+
+8.  [3.14,11,'cat',True]
+
+9.  lists can be concatenated with + operator and lists can be replicated n times by using bacon * n
+
+10.  append() inserts a value at the end of the list, hence no need the position parameter
+     insert() inserts a value at any position in the list. So it has 2 main parameters, the position and the value
+
+11.  bacon.remove('cat')
+     bacon.pop(0)
+
+12.  They are saved in a sequential manner and hence can be retrieved by their indexes
+
+13.  Lists are mutable while tuples are immutable
+
+14.  tup1 = (42,)
+
+15.  l=[1,"abc",9]
+     tuple(l)
+
+     t=(1,45,"abc")	
+     list(t)
+
+16.  They can contain other variables as well and others variables can have list variables
+     eg  t=(1,2,[7,8,9])
+
+
+17.  copy.copy()  creates a new object and assigns all the values in the list/tuple to the new object in such a way that
+     the address or reference of the original values are attached.
+     copy.deepcopy() creates a new object with all values occupying new memory locations 

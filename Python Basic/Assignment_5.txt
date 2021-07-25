@@ -1,0 +1,22 @@
+Python basic assignment 5
+
+1.  d={}
+
+2.  42
+
+3.  list holds a sequence of values with the reference only being index, while dictionary stores in key value pair.
+    The values in the dict can be accessed by the keys as well
+
+4.  error, no such key present
+
+5.  'cat' in spam checks if 'cat' is present as a key in the dictionary
+    'cat' in spam.keys() also checks if 'cat' is present as a key in the dictionary
+
+6.  'cat' in spam checks if 'cat' is present as a key in the dictionary
+    'cat' in spam.values() checks if 'cat' is present as a value in the dictionary
+
+7.  spam['color']='black'
+
+8.  Using dumps()  in json library
+    json.dumps(dict1)
+
